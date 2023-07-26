@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Greeting Card</string>
+    <string name="loading_message">Loading...</string>
+    <string name="user_name_text">Name:</string>
+    <string name="user_details_text">User Details</string>
+    <string name="user_email_text">Email:</string>
+    <string name="close_text">Close</string>
+    <string name="api_url">https://jsonplaceholder.typicode.com/users</string>
+
 </resources>
